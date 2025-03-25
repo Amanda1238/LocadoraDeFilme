@@ -1,0 +1,16 @@
+Relatório de Aluguéis para o CPF: 12345678912
+========================================
+ID do Aluguel: 12
+Data de Devolução: 12/12/2012
+Cliente: Caio
+Idade: 18
+Número de Aluguéis: 12
+Filme não encontrado.
+----------------------------------------
+ID do Aluguel: 13
+Data de Devolução: 12/12/2012
+Cliente: Caio
+Idade: 18
+Número de Aluguéis: 12
+Filme não encontrado.
+----------------------------------------
